@@ -1,0 +1,15 @@
+This is the ReadMe file for Ricardo Maury's "Sieve of Eratosthenes" Program.
+
+(The program was completed in PuTTy on the ocelot.aul.fiu.edu server)
+
+How to compile the program:
+
+-There are 3 files needed: main.c, sieveFunctions.c, and sieve.h
+
+-Once the files are gathered in the same directory, it must be compiled with the gcc compiler as such:
+
+"gcc main.c sieveFunctions.c -lm" 
+
+It will result in a "a.out" file. To execute, write:
+
+"./a.out" 
